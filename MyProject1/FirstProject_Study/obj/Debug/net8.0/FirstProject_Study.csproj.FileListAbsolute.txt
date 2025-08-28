@@ -1,0 +1,14 @@
+Z:\DEPI\c#\MyProject1\FirstProject_Study\bin\Debug\net8.0\FirstProject_Study.exe
+Z:\DEPI\c#\MyProject1\FirstProject_Study\bin\Debug\net8.0\FirstProject_Study.deps.json
+Z:\DEPI\c#\MyProject1\FirstProject_Study\bin\Debug\net8.0\FirstProject_Study.runtimeconfig.json
+Z:\DEPI\c#\MyProject1\FirstProject_Study\bin\Debug\net8.0\FirstProject_Study.dll
+Z:\DEPI\c#\MyProject1\FirstProject_Study\bin\Debug\net8.0\FirstProject_Study.pdb
+Z:\DEPI\c#\MyProject1\FirstProject_Study\obj\Debug\net8.0\FirstProject_Study.GeneratedMSBuildEditorConfig.editorconfig
+Z:\DEPI\c#\MyProject1\FirstProject_Study\obj\Debug\net8.0\FirstProject_Study.AssemblyInfoInputs.cache
+Z:\DEPI\c#\MyProject1\FirstProject_Study\obj\Debug\net8.0\FirstProject_Study.AssemblyInfo.cs
+Z:\DEPI\c#\MyProject1\FirstProject_Study\obj\Debug\net8.0\FirstProject_Study.csproj.CoreCompileInputs.cache
+Z:\DEPI\c#\MyProject1\FirstProject_Study\obj\Debug\net8.0\FirstProject_Study.dll
+Z:\DEPI\c#\MyProject1\FirstProject_Study\obj\Debug\net8.0\refint\FirstProject_Study.dll
+Z:\DEPI\c#\MyProject1\FirstProject_Study\obj\Debug\net8.0\FirstProject_Study.pdb
+Z:\DEPI\c#\MyProject1\FirstProject_Study\obj\Debug\net8.0\FirstProject_Study.genruntimeconfig.cache
+Z:\DEPI\c#\MyProject1\FirstProject_Study\obj\Debug\net8.0\ref\FirstProject_Study.dll
