@@ -12,3 +12,18 @@ Z:\DEPI\c#\MyProject1\FirstProject_Study\obj\Debug\net8.0\refint\FirstProject_St
 Z:\DEPI\c#\MyProject1\FirstProject_Study\obj\Debug\net8.0\FirstProject_Study.pdb
 Z:\DEPI\c#\MyProject1\FirstProject_Study\obj\Debug\net8.0\FirstProject_Study.genruntimeconfig.cache
 Z:\DEPI\c#\MyProject1\FirstProject_Study\obj\Debug\net8.0\ref\FirstProject_Study.dll
+C:\Users\dell\OneDrive\Desktop\Zeyad .Net\C#\c-practice\MyProject1\FirstProject_Study\bin\Debug\net8.0\FirstProject_Study.exe
+C:\Users\dell\OneDrive\Desktop\Zeyad .Net\C#\c-practice\MyProject1\FirstProject_Study\bin\Debug\net8.0\FirstProject_Study.deps.json
+C:\Users\dell\OneDrive\Desktop\Zeyad .Net\C#\c-practice\MyProject1\FirstProject_Study\bin\Debug\net8.0\FirstProject_Study.runtimeconfig.json
+C:\Users\dell\OneDrive\Desktop\Zeyad .Net\C#\c-practice\MyProject1\FirstProject_Study\bin\Debug\net8.0\FirstProject_Study.dll
+C:\Users\dell\OneDrive\Desktop\Zeyad .Net\C#\c-practice\MyProject1\FirstProject_Study\bin\Debug\net8.0\FirstProject_Study.pdb
+C:\Users\dell\OneDrive\Desktop\Zeyad .Net\C#\c-practice\MyProject1\FirstProject_Study\obj\Debug\net8.0\FirstProject_Study.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\OneDrive\Desktop\Zeyad .Net\C#\c-practice\MyProject1\FirstProject_Study\obj\Debug\net8.0\FirstProject_Study.AssemblyInfoInputs.cache
+C:\Users\dell\OneDrive\Desktop\Zeyad .Net\C#\c-practice\MyProject1\FirstProject_Study\obj\Debug\net8.0\FirstProject_Study.AssemblyInfo.cs
+C:\Users\dell\OneDrive\Desktop\Zeyad .Net\C#\c-practice\MyProject1\FirstProject_Study\obj\Debug\net8.0\FirstProject_Study.csproj.CoreCompileInputs.cache
+C:\Users\dell\OneDrive\Desktop\Zeyad .Net\C#\c-practice\MyProject1\FirstProject_Study\obj\Debug\net8.0\FirstProject_Study.sourcelink.json
+C:\Users\dell\OneDrive\Desktop\Zeyad .Net\C#\c-practice\MyProject1\FirstProject_Study\obj\Debug\net8.0\FirstProject_Study.dll
+C:\Users\dell\OneDrive\Desktop\Zeyad .Net\C#\c-practice\MyProject1\FirstProject_Study\obj\Debug\net8.0\refint\FirstProject_Study.dll
+C:\Users\dell\OneDrive\Desktop\Zeyad .Net\C#\c-practice\MyProject1\FirstProject_Study\obj\Debug\net8.0\FirstProject_Study.pdb
+C:\Users\dell\OneDrive\Desktop\Zeyad .Net\C#\c-practice\MyProject1\FirstProject_Study\obj\Debug\net8.0\FirstProject_Study.genruntimeconfig.cache
+C:\Users\dell\OneDrive\Desktop\Zeyad .Net\C#\c-practice\MyProject1\FirstProject_Study\obj\Debug\net8.0\ref\FirstProject_Study.dll

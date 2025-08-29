@@ -2,14 +2,26 @@
 //Console.WriteLine("Hello, World!");
 //Console.Write("This is my first project in C#.");
 //Console.Write("This is my first project in C#.");
-
 using System.Collections.Generic;
+//Console.WriteLine("please Enter your age : ");
+//methods of reading int 
+//int Age= Console.Read();
+//int age = int.Parse(Console.ReadLine());
+//int age = Convert.ToInt32(Console.ReadLine());
+//Console.WriteLine("Your name is " + Name +" your age is "+ age);
 
-int num = 10;
+//// another way of printing vars
+//Console.WriteLine("My Name is {0} and my age is {1}", Name, age);
+//Console.WriteLine($"My Name is {Name} and my age is {age}");
 
-float num2 = 10.5f; //f: suffix to make it a float not double
-string name = "John Doe";
-const float PI = 3.14f; // const: constant value that cannot be changed
+//int grade = int.Parse(Console.ReadLine());
+//Console.WriteLine(grade > 60 ? "you passed" : "you failed");
+
+//int num = 10;
+
+//float num2 = 10.5f; ---- f: suffix to make it a float not double
+//string name = "John Doe";
+//const float PI = 3.14f; // const: constant value that cannot be changed
 
 //for each , only works for arrays and collections
 //foreach (singleArrayDatatype variable in ArrayName)
@@ -131,6 +143,7 @@ List<string> lang = new List<string>() {"nodejs","c" }; // Declaring a list of s
 lang.Add("C#"); // Adding elements to the list  
 lang.Add("Java");
 
+//adding many items
 // Correcting the issue by splitting the string into an array of substrings  
 string languagesss = "C#, Java, Python, JavaScript";
 lang.AddRange(languagesss.Split(", ")); // Split the string and add the resulting array to the list
@@ -139,7 +152,7 @@ lang.AddRange(languagesss.Split(", ")); // Split the string and add the resultin
 lang.Remove("JavaScript"); // Removing an element from the list (all similar)
 lang.RemoveAt(0); // Removing an element at a specific index (index 0 here),not for all collections
 lang.Insert(0, "JavaScript"); // Inserting an element at a specific index (index 0 here)
-lang[2] = "TypeScript"; // Updating an element at a specific index (index 2 here)
+lang[2] = "TypeScript"; // Updating an element at a specific index (index 2 here) (not for all)
 foreach (string l in lang)
 {
     Console.WriteLine(l); // Printing each element in the list  
@@ -147,6 +160,7 @@ foreach (string l in lang)
 Console.WriteLine(lang[0]); // Accessing elements by index
 
 
+//once seeing "set" this means it will add unique values inly
 Console.WriteLine("-------------HashSet----------------");
 
 // 2- HashSet (stores *unique* elements, no specific order, provides set operations like union, intersection, etc.)
@@ -163,6 +177,9 @@ Myset.Add(5);
 //to update an element, we have to remove it and add the new element
 Myset.Remove(2); // Removing an element from the HashSet(all occurance)
 Myset.Add(22); // Adding the updated element to the HashSet
+
+if (Myset.Remove(3))  //if there is 30 it will remove it and return true and 22 well be added 
+    Myset.Add(277);
 
 foreach (var s in Myset)
 {
@@ -199,3 +216,68 @@ mystack.Push(4);
 //remove -> pop() :deletes and returns the top element of the stack
 Console.WriteLine(mystack.Pop()); // Removing the top element from the Stack and printing it
 Console.WriteLine(mystack.Peek()); // Returns the top element without removing it
+
+Console.WriteLine("-------------Queues----------------");
+
+Queue<int> queue = new Queue<int>();
+//adding data 
+queue.Enqueue(1);
+queue.Enqueue(2);
+queue.Enqueue(3);
+foreach (var item in queue)
+    { Console.WriteLine(item); }
+//removing data 
+queue.Dequeue(); //no need to give it value as it will remove from first anyways
+foreach (var item in queue)
+{ Console.WriteLine(item); }
+
+
+Console.WriteLine("-------------LinkedList----------------");
+//fastest insert and delete
+LinkedList<string> linkedlist  = new LinkedList<string>();
+//each linkedlist contains nodes 
+//each node contains value + pointer that points to next node
+// we also have sth called double linked list 
+//it's nodes have 3 parts : prepointer + value + next pointer
+
+//add {h,g,f,a,b,c,d,e}
+linkedlist.AddLast("a");
+linkedlist.AddLast("b");
+linkedlist.AddLast("c");
+linkedlist.AddLast("d");
+linkedlist.AddLast("e");
+linkedlist.AddFirst("f");
+linkedlist.AddFirst("g");
+linkedlist.AddFirst("h");
+//how to add a node after a specific node
+LinkedListNode<string>? node = linkedlist.Find("b"); //this could return null if item is not found
+if (node is not null) {
+    linkedlist.AddAfter(node,"Hiiiiiii");
+}
+//delete
+linkedlist.Remove("f");
+linkedlist.RemoveFirst();
+linkedlist.RemoveLast();
+
+//read
+Console.WriteLine(linkedlist.Count); //number of nodes
+foreach(var item in linkedlist) Console.WriteLine(item);
+
+
+Console.WriteLine("-------------Dictionary----------------");
+//Dictionary<KeyType,ValueType>
+Dictionary<string,string> Dict = new Dictionary<string,string>(); //key must be unique, its ok to have duplicate values
+
+//add
+Dict.Add("name", "zeyad");
+Dict.Add("age", "22");
+Dict.Add("id", "1");
+Dict["DOB"] = "2003";
+//update
+Dict["name"] = "zizoooo";
+
+//delete
+
+
+//read
+Console.WriteLine(Dict["name"]);
