@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dell\\OneDrive\\Desktop\\Zeyad .Net\\C#\\c-practice\\MyProject1\\FirstProject_Study\\FirstProject_Study.csproj": {}
+    "Z:\\C#\\firstproject\\MyProject1\\FirstProject_Study\\FirstProject_Study.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dell\\OneDrive\\Desktop\\Zeyad .Net\\C#\\c-practice\\MyProject1\\FirstProject_Study\\FirstProject_Study.csproj": {
+    "Z:\\C#\\firstproject\\MyProject1\\FirstProject_Study\\FirstProject_Study.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dell\\OneDrive\\Desktop\\Zeyad .Net\\C#\\c-practice\\MyProject1\\FirstProject_Study\\FirstProject_Study.csproj",
+        "projectUniqueName": "Z:\\C#\\firstproject\\MyProject1\\FirstProject_Study\\FirstProject_Study.csproj",
         "projectName": "FirstProject_Study",
-        "projectPath": "C:\\Users\\dell\\OneDrive\\Desktop\\Zeyad .Net\\C#\\c-practice\\MyProject1\\FirstProject_Study\\FirstProject_Study.csproj",
-        "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dell\\OneDrive\\Desktop\\Zeyad .Net\\C#\\c-practice\\MyProject1\\FirstProject_Study\\obj\\",
+        "projectPath": "Z:\\C#\\firstproject\\MyProject1\\FirstProject_Study\\FirstProject_Study.csproj",
+        "packagesPath": "C:\\Users\\zkhal\\.nuget\\packages\\",
+        "outputPath": "Z:\\C#\\firstproject\\MyProject1\\FirstProject_Study\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\zkhal\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -44,7 +44,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

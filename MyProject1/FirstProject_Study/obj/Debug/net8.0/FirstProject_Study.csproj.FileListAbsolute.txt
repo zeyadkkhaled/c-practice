@@ -27,3 +27,18 @@ C:\Users\dell\OneDrive\Desktop\Zeyad .Net\C#\c-practice\MyProject1\FirstProject_
 C:\Users\dell\OneDrive\Desktop\Zeyad .Net\C#\c-practice\MyProject1\FirstProject_Study\obj\Debug\net8.0\FirstProject_Study.pdb
 C:\Users\dell\OneDrive\Desktop\Zeyad .Net\C#\c-practice\MyProject1\FirstProject_Study\obj\Debug\net8.0\FirstProject_Study.genruntimeconfig.cache
 C:\Users\dell\OneDrive\Desktop\Zeyad .Net\C#\c-practice\MyProject1\FirstProject_Study\obj\Debug\net8.0\ref\FirstProject_Study.dll
+Z:\C#\firstproject\MyProject1\FirstProject_Study\bin\Debug\net8.0\FirstProject_Study.exe
+Z:\C#\firstproject\MyProject1\FirstProject_Study\bin\Debug\net8.0\FirstProject_Study.deps.json
+Z:\C#\firstproject\MyProject1\FirstProject_Study\bin\Debug\net8.0\FirstProject_Study.runtimeconfig.json
+Z:\C#\firstproject\MyProject1\FirstProject_Study\bin\Debug\net8.0\FirstProject_Study.dll
+Z:\C#\firstproject\MyProject1\FirstProject_Study\bin\Debug\net8.0\FirstProject_Study.pdb
+Z:\C#\firstproject\MyProject1\FirstProject_Study\obj\Debug\net8.0\FirstProject_Study.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C#\firstproject\MyProject1\FirstProject_Study\obj\Debug\net8.0\FirstProject_Study.AssemblyInfoInputs.cache
+Z:\C#\firstproject\MyProject1\FirstProject_Study\obj\Debug\net8.0\FirstProject_Study.AssemblyInfo.cs
+Z:\C#\firstproject\MyProject1\FirstProject_Study\obj\Debug\net8.0\FirstProject_Study.csproj.CoreCompileInputs.cache
+Z:\C#\firstproject\MyProject1\FirstProject_Study\obj\Debug\net8.0\FirstProject_Study.sourcelink.json
+Z:\C#\firstproject\MyProject1\FirstProject_Study\obj\Debug\net8.0\FirstProject_Study.dll
+Z:\C#\firstproject\MyProject1\FirstProject_Study\obj\Debug\net8.0\refint\FirstProject_Study.dll
+Z:\C#\firstproject\MyProject1\FirstProject_Study\obj\Debug\net8.0\FirstProject_Study.pdb
+Z:\C#\firstproject\MyProject1\FirstProject_Study\obj\Debug\net8.0\FirstProject_Study.genruntimeconfig.cache
+Z:\C#\firstproject\MyProject1\FirstProject_Study\obj\Debug\net8.0\ref\FirstProject_Study.dll

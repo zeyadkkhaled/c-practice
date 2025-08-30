@@ -277,7 +277,48 @@ Dict["DOB"] = "2003";
 Dict["name"] = "zizoooo";
 
 //delete
-
-
+Dict.Remove("age");
 //read
 Console.WriteLine(Dict["name"]);
+foreach (var item in Dict) 
+    Console.WriteLine(item.Key + " : " + item.Value);
+
+Console.WriteLine("-------------SortedDictionary----------------");
+//it sorts by key
+//create
+SortedDictionary<int, string> SortedDict = new SortedDictionary<int, string>();
+//add
+SortedDict.Add(3, "omar");
+SortedDict.Add(1, "ahmed");
+SortedDict.Add(2, "mohamed");
+SortedDict.Add(4, "zeyad");
+//update
+SortedDict[2] = "ali";
+//delete
+SortedDict.Remove(3);
+//read
+foreach (var item in SortedDict)
+    Console.WriteLine(item.Key + " : " + item.Value);
+
+Console.WriteLine("--------------SortedList---------------");
+//SortedList<KeyType,ValueType>
+//it sorts by key
+//like Sorted dictionary but uses less memory and slower in adding and removing
+//create
+SortedList<int, string> Sortedlistt = new SortedList<int, string>();
+//add
+Sortedlistt.Add(3, "omar");
+Sortedlistt.Add(1, "ahmed");
+Sortedlistt.Add(2, "mohamed");
+Sortedlistt.Add(4, "zeyad");
+Sortedlistt[6] = "ali"; //this creates a new key-value pair if the key doesn't exist
+//update    
+Sortedlistt[2] = "Moooooo";
+//delete
+Sortedlistt.Remove(3);
+//read
+foreach (var item in Sortedlistt)
+    Console.WriteLine(item.Key + " : " + item.Value);
+
+
+

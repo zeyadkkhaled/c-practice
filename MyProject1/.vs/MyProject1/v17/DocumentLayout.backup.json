@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\dell\\OneDrive\\Desktop\\Zeyad .Net\\C#\\c-practice\\MyProject1\\",
+  "WorkspaceRootPath": "Z:\\C#\\firstproject\\MyProject1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5FAA1B40-5E7E-4766-B287-5901E521317F}|FirstProject_Study\\FirstProject_Study.csproj|c:\\users\\dell\\onedrive\\desktop\\zeyad .net\\c#\\c-practice\\myproject1\\firstproject_study\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FAA1B40-5E7E-4766-B287-5901E521317F}|FirstProject_Study\\FirstProject_Study.csproj|solutionrelative:firstproject_study\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2719B2D8-39AC-4C89-82BA-F2FBE8024643}|OOP\\OOP.csproj|z:\\c#\\firstproject\\myproject1\\oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2719B2D8-39AC-4C89-82BA-F2FBE8024643}|OOP\\OOP.csproj|solutionrelative:oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2719B2D8-39AC-4C89-82BA-F2FBE8024643}|OOP\\OOP.csproj|z:\\c#\\firstproject\\myproject1\\oop\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2719B2D8-39AC-4C89-82BA-F2FBE8024643}|OOP\\OOP.csproj|solutionrelative:oop\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +18,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "Z:\\C#\\firstproject\\MyProject1\\OOP\\Person.cs",
+              "RelativeDocumentMoniker": "OOP\\Person.cs",
+              "ToolTip": "Z:\\C#\\firstproject\\MyProject1\\OOP\\Person.cs*",
+              "RelativeToolTip": "OOP\\Person.cs*",
+              "ViewState": "AgIAACcAAAAAAAAAAAA8wEIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T16:39:59.13Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\OneDrive\\Desktop\\Zeyad .Net\\C#\\c-practice\\MyProject1\\FirstProject_Study\\Program.cs",
-              "RelativeDocumentMoniker": "FirstProject_Study\\Program.cs",
-              "ToolTip": "C:\\Users\\dell\\OneDrive\\Desktop\\Zeyad .Net\\C#\\c-practice\\MyProject1\\FirstProject_Study\\Program.cs*",
-              "RelativeToolTip": "FirstProject_Study\\Program.cs*",
-              "ViewState": "AgIAAAYBAAAAeP/////vvxoBAAAlAAAAAAAAAA==",
+              "DocumentMoniker": "Z:\\C#\\firstproject\\MyProject1\\OOP\\Program.cs",
+              "RelativeDocumentMoniker": "OOP\\Program.cs",
+              "ToolTip": "Z:\\C#\\firstproject\\MyProject1\\OOP\\Program.cs*",
+              "RelativeToolTip": "OOP\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T17:50:10.634Z",
+              "WhenOpened": "2025-08-29T16:39:12.307Z",
               "EditorCaption": ""
             }
           ]
