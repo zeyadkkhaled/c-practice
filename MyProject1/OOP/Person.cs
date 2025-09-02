@@ -38,22 +38,19 @@ namespace OOP //organizer for classes
             this.Name = p.Name;
             this.Age = p.Age;
             this.ssn = p.ssn;
-
         }
-        //5- copy constructors 
-        // Static constructor:
+
+        //5-Static constructor:
         // - Runs only once, before the class is used (first access).
         // - Used to initialize static fields.
         // - Cannot have parameters.
         // - Cannot be called manually (runtime calls it automatically).
         // - Executes before any instance constructor or static method is accessed.
-
+        //access modeifiers are not allowed for static constructor
         static Person() { 
-            
-        
-        
-        
+           
         }
+
         //methods
         //instance method
         // access returnType MethodName(parameters) { code... }
@@ -67,7 +64,7 @@ namespace OOP //organizer for classes
         }
         //static method
         //no need for an object of the class to call it
-        public static string DispDate() //good for memory management
+        public static string DispDate() //good for memory management (we don't need to create object to use static methods)
         {
             return DateTime.Now.ToString("MM/dd/yyyy");
         }
@@ -100,6 +97,29 @@ namespace OOP //organizer for classes
         {
             res = num + 10;
         }
-        
+        //Enumerations
+        public enum Day { Sat, Sun, Mon, Tue, Wed, Thu, Fri }; //default indexing statrts with one
+        public enum Color { Red = 1, Green = 2, Blue = 3, White = 4, Black = 5 };
+        public enum  season
+        {
+            winter,
+            spring,
+            summer,
+            autumn
+        }
+
+
+        //Destructor
+        //Does not take parameters
+        //No access modifiers allowed 
+        ~Person()
+        {
+            Console.WriteLine("Destructor called");
+            //cleanup code
+            //called by garbage collector when the object is no longer in use
+            //we cannot predict when it will be called
+            //used to release unmanaged resources like file handles, database connections, etc.
+        }
     }
+  
 }
