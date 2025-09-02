@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\dell\\OneDrive\\Desktop\\Zeyad .Net\\C#\\c-practice\\MyProject1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2719B2D8-39AC-4C89-82BA-F2FBE8024643}|OOP\\OOP.csproj|c:\\users\\dell\\onedrive\\desktop\\zeyad .net\\c#\\c-practice\\myproject1\\oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2719B2D8-39AC-4C89-82BA-F2FBE8024643}|OOP\\OOP.csproj|solutionrelative:oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2719B2D8-39AC-4C89-82BA-F2FBE8024643}|OOP\\OOP.csproj|c:\\users\\dell\\onedrive\\desktop\\zeyad .net\\c#\\c-practice\\myproject1\\oop\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2719B2D8-39AC-4C89-82BA-F2FBE8024643}|OOP\\OOP.csproj|solutionrelative:oop\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2719B2D8-39AC-4C89-82BA-F2FBE8024643}|OOP\\OOP.csproj|c:\\users\\dell\\onedrive\\desktop\\zeyad .net\\c#\\c-practice\\myproject1\\oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2719B2D8-39AC-4C89-82BA-F2FBE8024643}|OOP\\OOP.csproj|solutionrelative:oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5FAA1B40-5E7E-4766-B287-5901E521317F}|FirstProject_Study\\C#basicsAndCollections.csproj|c:\\users\\dell\\onedrive\\desktop\\zeyad .net\\c#\\c-practice\\myproject1\\firstproject_study\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,30 +22,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\dell\\OneDrive\\Desktop\\Zeyad .Net\\C#\\c-practice\\MyProject1\\OOP\\Program.cs",
               "RelativeDocumentMoniker": "OOP\\Program.cs",
-              "ToolTip": "C:\\Users\\dell\\OneDrive\\Desktop\\Zeyad .Net\\C#\\c-practice\\MyProject1\\OOP\\Program.cs*",
-              "RelativeToolTip": "OOP\\Program.cs*",
-              "ViewState": "AgIAAAIAAACgMjMzMzMtwBMAAAAcAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\dell\\OneDrive\\Desktop\\Zeyad .Net\\C#\\c-practice\\MyProject1\\OOP\\Program.cs",
+              "RelativeToolTip": "OOP\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvxQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-30T16:56:10.066Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Users\\dell\\OneDrive\\Desktop\\Zeyad .Net\\C#\\c-practice\\MyProject1\\OOP\\Person.cs",
               "RelativeDocumentMoniker": "OOP\\Person.cs",
-              "ToolTip": "C:\\Users\\dell\\OneDrive\\Desktop\\Zeyad .Net\\C#\\c-practice\\MyProject1\\OOP\\Person.cs*",
-              "RelativeToolTip": "OOP\\Person.cs*",
-              "ViewState": "AgIAAD8AAAAAnJmZmZk3wEwAAAAdAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\dell\\OneDrive\\Desktop\\Zeyad .Net\\C#\\c-practice\\MyProject1\\OOP\\Person.cs",
+              "RelativeToolTip": "OOP\\Person.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAswDMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-30T16:43:14.275Z",
               "EditorCaption": ""
@@ -60,8 +60,7 @@
               "RelativeToolTip": "FirstProject_Study\\Program.cs",
               "ViewState": "AgIAAPoAAADAxMzMzEwhwBIBAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T17:50:10.634Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-21T17:50:10.634Z"
             }
           ]
         }
