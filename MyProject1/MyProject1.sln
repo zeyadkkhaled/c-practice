@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#basicsAndCollections", "F
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP", "OOP\OOP.csproj", "{2719B2D8-39AC-4C89-82BA-F2FBE8024643}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_Example", "OOP_Example\OOP_Example.csproj", "{3966F98D-5660-400C-8503-07438252A54E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,8 +23,15 @@ Global
 		{2719B2D8-39AC-4C89-82BA-F2FBE8024643}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2719B2D8-39AC-4C89-82BA-F2FBE8024643}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2719B2D8-39AC-4C89-82BA-F2FBE8024643}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3966F98D-5660-400C-8503-07438252A54E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3966F98D-5660-400C-8503-07438252A54E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3966F98D-5660-400C-8503-07438252A54E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3966F98D-5660-400C-8503-07438252A54E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {125A4F2F-0F7E-451C-B22C-485601B7D526}
 	EndGlobalSection
 EndGlobal
